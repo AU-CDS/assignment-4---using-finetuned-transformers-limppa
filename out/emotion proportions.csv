@@ -1,0 +1,15 @@
+real/fake,emotion,count,proportion
+FAKE,anger,412,0.13
+FAKE,disgust,248,0.078
+FAKE,fear,521,0.165
+FAKE,joy,92,0.029
+FAKE,neutral,1531,0.484
+FAKE,sadness,242,0.076
+FAKE,surprise,118,0.037
+REAL,anger,383,0.121
+REAL,disgust,186,0.059
+REAL,fear,555,0.175
+REAL,joy,63,0.02
+REAL,neutral,1649,0.52
+REAL,sadness,245,0.077
+REAL,surprise,90,0.028
